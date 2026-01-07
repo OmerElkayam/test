@@ -1,3 +1,4 @@
 FROM ubuntu
-run echo "run docker file"
+RUN echo "run docker file"
+
 
